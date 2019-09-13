@@ -6,7 +6,7 @@
 
 // +build linux darwin freebsd openbsd
 
-package unixutils // "go.bug.st/serial.v1/unixutils"
+package unixutils // "github.com/kcert2018/go-serial/unixutils"
 
 import (
 	"time"
